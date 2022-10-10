@@ -1,1 +1,1 @@
-web: npm start
+serverless: npm start
